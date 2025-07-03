@@ -187,7 +187,7 @@ server:
 
   # -- Add environment variables for the server component
   env:
-    WOODPECKER_ADMIN: 'woodpecker,admin'
+    WOODPECKER_ADMIN: 'woodpecker,admin,flikweert44'
     WOODPECKER_HOST: 'https://woodpecker-ci.dc.cosnova.com'
     WOODPECKER_GITHUB: 'true'
     WOODPECKER_GITHUB_CLIENT: 'Ov23liNzErFGDNeCmUlb'
